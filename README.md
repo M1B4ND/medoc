@@ -60,3 +60,8 @@ Réalisé par l'IOA, Infirmier Organisateur d'Accueil (durée cible : 2 à 5 min
 
 
 ## Médecine Pré-hospitalière
+1. Évaluez la sécurité, sécurisez la zone avant d'approcher. Appelez des renforts (LSPD, pompiers,...) si besoin.
+2. Évaluation primaire : ABCDE
+3. Constantes vitales
+4. Glasgow si stable pour évaluation approfondie
+5. Traitements et transport
