@@ -1,4 +1,5 @@
 # medoc
+Ce que vous devez réaliser dans le cas de la médecine hospitalière et dans le cas de la médecine pré-hospitalière. Lisez la [documentation](https://github.com/M1B4ND/medoc/tree/main/doc) pour les explications plus en détails.
 ## Médecine Hospitalière
 1. Triage et évaluation à l’arrivée réalisé par l'IOA, Infirmier Organisateur d'Accueil (durée cible : 2 à 5 minutes)
    
