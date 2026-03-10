@@ -29,4 +29,42 @@ Allant de 1 à 15, et qui s'évalue sur trois critères : Ouverture des yeux, r�
 |                    | 5 - normale     | 5 - orientée    |
 |                    |                 | 6 - aux ordres  |
 
+Ouverture des yeux
+| Score | Nature de la réponse | Explications |
+|-------|----------------------|--------------|
+| 1     | Nulle                | Aucune ouverture des yeux, même en cas de stimulus douloureux |
+| 2     | À la douleur         | Les yeux sont fermés : ils ne s'ouvrent que quand un stimulus douloureux est pratiqué |
+| 3     | À la demande         | Les yeux sont fermés : ils ne s'ouvrent que quand on demande à la personne de le faire |
+| 4     | Spontanée            | Les yeux sont ouverts, le regard est normal |
+
+Réponse verbale
+| Score | Nature de la réponse | Explications |
+|-------|----------------------|--------------|
+| 1     | Nulle                |	La personne ne parle pas, aucun son ne sort de sa bouche |
+| 2     |	Incompréhensible     |	La personne n'émet que des grognements, ou marmonne, spontanément ou à la douleur |
+| 3     |	Inappropriée         |	Les réponses ne correspondent pas aux questions |
+| 4     |	Confuse              |	La personne commet des erreurs, se répète |
+| 5     |	Normale              |	La personne peut citer son nom, le lieu, la date... |
+
+Réponse motrice
+| Score | Nature de la réponse | Explications |
+|-------|----------------------|--------------|
+| 1     |	Nulle                |	A la stimulation douloureuse : aucune réaction |
+| 2     |	Extension stéréotypée |	À la stimulation douloureuse : extension et rotation interne des membres supérieurs, les paumes se tournent vers l'extérieur : décérébration |
+| 3     |	Flexion stéréotypée  |	À la stimulation douloureuse : flexion de l'avant-bras sur le bras : décortication |
+| 4     |	Évitement            |	À la stimulation douloureuse : le bras tente de se soustraire à la douleur, mais de manière peu adaptée ou simplement ébauchée (motricité de retrait faible) |
+| 5     |	Orientée             |	À la stimulation douloureuse : mouvement adapté de retrait, parfois violent (motricité dite localisatrice, de retrait fort) |
+| 6     |	Aux ordres           |	Spontanément : répond de manière adaptée aux ordres simples |
+
 ## Interprétation
+La notion d'inconscience en premiers secours correspond globalement à un total inférieur à 10.
+- 15 : conscience normale
+- 14 à 10 : somnolence ou coma léger
+- 9 à 7 : coma lourd
+- 6 à 3 : coma profond ou mort clinique
+
+## Réaction à la douleur
+Si la victime n'exécute pas d'action spontanée, ni au bruit ni au toucher, on teste alors sa réaction à la douleur. Il convient bien évidemment d'exercer une stimulation qui ne cause ni blessure ni aggravation de l'état et n'entraînant pas non plus de lésion de la zone stimulée. On utilise en pratique l'appui sur un ongle d'un objet dur tel un stylo.
+
+## Pronostics après la sortie du coma
+Si l'échelle de Glasgow est un des critères de gravité et de devenir, notamment pour les traumatismes cranio-cérébraux, elle ne peut constituer le seul élément de pronostic : un GCS (Glasgow Coma Scale) de 12 à l'entrée aux urgences peut se dégrader très rapidement en fonction de l'accident, et l'urgence imposera aux équipes de prise en charge de surveiller les constantes vitales et d'éviter l'apparition d'atteintes cérébrales secondaires d'origine systémique (ACSOS). Dans ce type de situation, il est probable que l'échelle de Glasgow ne soit plus évaluée en raison de l'urgence.
