@@ -40,7 +40,7 @@ Ouverture des yeux
 Réponse verbale
 | Score | Nature de la réponse | Explications |
 |-------|----------------------|--------------|
-| 1     | Nulle                |	La personne ne parle pas, aucun son ne sort de sa bouche |
+| 1     | Nulle                |	La personne ne parle pas, aucun son ne sort de sa bouche même à la stimulation douloureuse |
 | 2     |	Incompréhensible     |	La personne n'émet que des grognements, ou marmonne, spontanément ou à la douleur |
 | 3     |	Inappropriée         |	Les réponses ne correspondent pas aux questions |
 | 4     |	Confuse              |	La personne commet des erreurs, se répète |
@@ -54,7 +54,7 @@ Réponse motrice
 | 3     |	Flexion stéréotypée  |	À la stimulation douloureuse : flexion de l'avant-bras sur le bras : décortication |
 | 4     |	Évitement            |	À la stimulation douloureuse : le bras tente de se soustraire à la douleur, mais de manière peu adaptée ou simplement ébauchée (motricité de retrait faible) |
 | 5     |	Orientée             |	À la stimulation douloureuse : mouvement adapté de retrait, parfois violent (motricité dite localisatrice, de retrait fort) |
-| 6     |	Aux ordres           |	Spontanément : répond de manière adaptée aux ordres simples |
+| 6     |	Aux ordres           |	Spontanément : répond de manière adaptée aux ordres simples, comme de serrer les mains |
 
 ## Interprétation
 La notion d'inconscience en premiers secours correspond globalement à un total inférieur à 10.
@@ -64,7 +64,14 @@ La notion d'inconscience en premiers secours correspond globalement à un total 
 - 6 à 3 : coma profond ou mort clinique
 
 ## Réaction à la douleur
-Si la victime n'exécute pas d'action spontanée, ni au bruit ni au toucher, on teste alors sa réaction à la douleur. Il convient bien évidemment d'exercer une stimulation qui ne cause ni blessure ni aggravation de l'état et n'entraînant pas non plus de lésion de la zone stimulée. On utilise en pratique l'appui sur un ongle d'un objet dur tel un stylo.
+Si la victime n'exécute pas d'action spontanée, ni au bruit ni au toucher, on teste alors sa réaction à la douleur. Il convient bien évidemment d'exercer une stimulation qui ne cause ni blessure ni aggravation de l'état et n'entraînant pas non plus de lésion de la zone stimulée. En pratique, on effectue une pression sur la base d'un des ongles de la victime.
 
 ## Pronostics après la sortie du coma
 Si l'échelle de Glasgow est un des critères de gravité et de devenir, notamment pour les traumatismes cranio-cérébraux, elle ne peut constituer le seul élément de pronostic : un GCS (Glasgow Coma Scale) de 12 à l'entrée aux urgences peut se dégrader très rapidement en fonction de l'accident, et l'urgence imposera aux équipes de prise en charge de surveiller les constantes vitales et d'éviter l'apparition d'atteintes cérébrales secondaires d'origine systémique (ACSOS). Dans ce type de situation, il est probable que l'échelle de Glasgow ne soit plus évaluée en raison de l'urgence.
+
+## Exemples
+Vous abordez une victime consciente allongée au sol. Celle-ci a les yeux fermés.
+- Vous lui demandez d'ouvrir les yeux et elle s'exécute. Y = 3
+- La victime ne vous parle pas mais émet des grognements lorsque vous lui posez une question. V = 2
+- La victime, lorsque vous lui en faites la demande, ne serre pas les mains ; à la stimulation douloureuse, elle tente d'enlever son bras. M = 4
+Glasgow = 9 (Y 3 ; V 2 ; M 4)
