@@ -2,6 +2,8 @@
 
 Fiche pour différencier : **syncope**, **lipothymie**, **crise convulsive**, **coma**, **malaise non spécifique**.
 
+Par exemple, une personne s'évanouit devant vous, utilisez le tableau ci-dessous pour évaluer la situation.
+
 | Critère                  | Syncope                          | Lipothymie (Présyncope)         | Crise Convulsive (Épileptique)   | Coma                             | Malaise vague / Psychogène      |
 |--------------------------|----------------------------------|----------------------------------|----------------------------------|----------------------------------|---------------------------------|
 | Perte de connaissance    | Oui, totale et brève            | Non (imminente mais pas totale) | Oui, souvent totale             | Oui, profonde et prolongée      | Variable, souvent partielle    |
