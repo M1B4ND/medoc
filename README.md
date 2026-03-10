@@ -32,9 +32,9 @@
    | D - Disability (Neurologie) | Conscience (échelle AVPU : Alerte/Confus/Voix/Douleur/Inerte) ? Pupilles ? Glycémie, protège tête. Patient confus, réagit à la douleur. |
    | E - Exposure | Blessures cachées ? Hypothermie ? Déshabille partiellement, couvre. Examine le dos : hématome abdominal. |
 
-   e. Échelle de Glasgow (Traumatismes crâniens)
+   e. Échelle de Glasgow
    
-   f. Échelle AVPU (brancard, ambulance ou perte de connaissance)
+   f. Échelle EVDA (brancard, ambulance ou perte de connaissance)
 
    ### Tableau du triage
    | Niveau d'urgence/Priorisation | Délai max avant médecin | Signes typiques                                                                              |
