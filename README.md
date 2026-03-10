@@ -21,14 +21,6 @@ Lisez la [documentation](https://github.com/M1B4ND/medoc/tree/main/doc) pour les
         
    d. Évaluation ABCDE
 
-   | Étape | Vérifications |
-   |-------|---------------|
-   | A - Airway (Voie aériennes) | Vérification, bouche obstruée ? Respiration bruyante ? |
-   | B - Breathing (Respiration) | FR 12-20/min ? Mouvement thorax symétrique ? Cyanose ? Oxygène (masque 15L/min), ventilo si grave. Administre de l'oxygène via masque. FR : 28/min rapide. |
-   | C - Circulation | Pouls fort ? Saignements ? Peau pâle/froide ? Compression plaies, garrot (membres), IV saline/sang. Pouls faible 110 bpm, BP 80/50. Pose garrot. |
-   | D - Disability (Neurologie) | Conscience (échelle AVPU : Alerte/Confus/Voix/Douleur/Inerte) ? Pupilles ? Glycémie, protège tête. Patient confus, réagit à la douleur. |
-   | E - Exposure | Blessures cachées ? Hypothermie ? Déshabille partiellement, couvre. Examine le dos : hématome abdominal. |
-
    e. Échelle EVDA
    
    f. Échelle de Glasgow
