@@ -14,13 +14,6 @@
       - Dernier repas / événements récents ? (alcool, drogue, accident ?)
         
    c. Mesure des constantes vitales
-      - Tension artérielle
-      - Fréquence cardiaque
-      - Fréquence respiratoire
-      - Saturation en oxygène
-      - Température
-      - Glycémie capillaire
-      - Douleur : EVA 0-10
         
    d. Évaluation ABCDE
 
@@ -32,9 +25,9 @@
    | D - Disability (Neurologie) | Conscience (échelle AVPU : Alerte/Confus/Voix/Douleur/Inerte) ? Pupilles ? Glycémie, protège tête. Patient confus, réagit à la douleur. |
    | E - Exposure | Blessures cachées ? Hypothermie ? Déshabille partiellement, couvre. Examine le dos : hématome abdominal. |
 
-   e. Échelle de Glasgow
+   e. Échelle EVDA
    
-   f. Échelle EVDA (brancard, ambulance ou perte de connaissance)
+   f. Échelle de Glasgow
 
    ### Tableau du triage
    | Niveau d'urgence/Priorisation | Délai max avant médecin | Signes typiques                                                                              |
