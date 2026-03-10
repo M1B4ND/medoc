@@ -63,17 +63,17 @@
 | **Overdose / intoxication**    | Tox screen, ECG, gaz du sang          | Antidotes spécifiques (naloxone, flumazénil, N-acétylcystéine), épuration extra-rénale            | **/me Hémodialyse pour intoxication au paracétamol massif.**                      |
 | **Crise convulsive / état de mal** | EEG, scanner cérébral               | Benzodiazépines IV, antiépileptiques load (lévétiracétam, phénytoïne), intubation                 | 
 ### Gestion de la réanimation & soins critiques
-   - Protocoles ACLS/ATLS/ALS adaptés adultes/enfants/néonat.
+   - Protocoles ACLS/ATLS/ALS
    - Monitorage invasif : pression artérielle invasive, Swan-Ganz (rare), PIC.
    - Ventilation invasive/non-invasive, ECMO basique RP.
    - Gestion choc : vasopresseurs (noradrénaline, adrénaline), inotropes (dobutamine).
-   - Décès & thanatologie RP : constat, certificat, annonce famille, autopsie virtuelle.
+   - Décès & thanatologie : constat, certificat, annonce famille, autopsie.
 ### Aspects transversaux & organisationnels
    - Coordination multidisciplinaire : Consultations spécialités (chirurgie, neuro, cardio, toxico…).
    - Prescription & pharmacologie : Antidouleurs (morphine PCA), antibios, anticoagulants, sédation (midazolam/propofol).
    - Éthique & droit : Consentement, limitation/arrêt thérapeutique, secret médical, signalement (violences, maltraitance).
    - Gestion de crise : Plan blanc, attentat/multivictimes, tri en masse.
-   - Documentation : Dossier patient RP, traçabilité actes, transmissions IDE/médecins.
+   - Documentation : Dossier patient, traçabilité actes, transmissions IDE/médecins.
    - Formation & simulation : Entraînement gestes, debrief post-cas graves.
 
 
