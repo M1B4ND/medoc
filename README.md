@@ -5,12 +5,14 @@
    a. Dès que le patient arrive (brancard, marche, ambulance...)
       - Regarde l'aspect général : couleur de peau, sueurs, agitation, saignement visible, posture, respiration bruyante  ?
       - Écoute les premières plaintes ou cris. Cela te donne déjà une idée du niveau d'urgence
+        
    b. Interrogatoire ultra-court
       - Qu'est-ce qui vous amène ? / Depuis quand ?
       - Avez-vous mal quelque part ? (localisation + intensité)
       - Prenez-vous des médicaments ?
       - Avez-vous des allergies ?
       - Dernier repas / événements récents ? (alcool, drogue, accident ?)
+        
    c. Mesure des constantes vitales
       - Tension artérielle
       - Fréquence cardiaque
@@ -19,6 +21,7 @@
       - Température
       - Glycémie capillaire
       - Douleur : EVA 0-10
+        
    d. Évaluation ABCDE
 
    | Étape | Vérifications |
