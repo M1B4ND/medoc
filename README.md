@@ -19,6 +19,7 @@
    - Sutures complexes, débridement plaies, greffes cutanées RP.
    - Chirurgies d’urgence : Laparotomie exploratrice, thoracotomie, craniotomie basique, amputation traumatique.
 4. Prise en charge des pathologies les plus fréquentes en hospitalier
+   
 | Pathologie / Syndrome          | Examens clés                          | Traitements hospitaliers typiques                                                                 | RP exemples (/me)                                                                 |
 |--------------------------------|---------------------------------------|---------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
 | **Polytrauma / MVC grave**     | FAST, TDM corps entier, bilan lésionnel | Transfusion massive, damage control surgery, embolisation                                         | **/me Laparotomie exploratrice : hémopéritoine 2L évacué, suture rate.**         |
