@@ -1,0 +1,1 @@
+# Pertes de connaissance brèves
