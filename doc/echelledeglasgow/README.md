@@ -1,4 +1,4 @@
-# Échelle de Glasgow
+# Échelle de Glasgow ( GCS )
 L'échelle de Glasgow, est un indicateur de l'état de conscience. Dans un contexte d'urgence, elle aide le médecin ou le secouriste à choisir une stratégie visant à maintenir les fonctions vitales. Cette échelle fut développée pour les traumatismes crâniens.
 
 Ce score est inversement corrélé à la gravité des comas. Le diagnostic de coma peut être posé quand ce score est inférieur à 8, mais il doit s'accompagner en plus de troubles de la vigilance et de l'éveil.
